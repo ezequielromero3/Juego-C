@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1573891735 source:c:\users\ezequ\desktop\uces\programacion 2\ej practicos\final\tanda de penales\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1573891735 c:\users\ezequ\desktop\uces\programacion 2\ej practicos\final\tanda de penales\miniwin.h
+	<iostream>
+
+1584205424 source:c:\users\ezequ\desktop\uces\programacion 2\ej practicos\final\tanda de penales\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1584205424 c:\users\ezequ\desktop\uces\programacion 2\ej practicos\final\tanda de penales\resource.h
+
